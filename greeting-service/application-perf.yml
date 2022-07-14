@@ -2,5 +2,5 @@ spring:
   application:
     name: greeting-service
 greeting-service:
-  greeting: "Ola"
+  greeting: "Ola perf"
   default-value: "Mundo-perf"
